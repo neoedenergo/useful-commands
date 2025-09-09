@@ -1,3 +1,2 @@
 # useful-commands
-
-Useful commands that I keep here not to forget them.
+Just some useful commands on Linux that I keep here for when I need them.
